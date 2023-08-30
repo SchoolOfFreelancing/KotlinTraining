@@ -1,4 +1,4 @@
-### Module: Kotlin Kickstart
+### Kotlin Hands-On Training for Future Kotlin Engineers
 
 Embarking on Your Kotlin Journey with Hands-On Learning
 
